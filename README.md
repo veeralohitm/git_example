@@ -12,11 +12,11 @@
 If run without command line arguments, using
 
 ```
-python newtons_method.py
+python cal_tax.py
 ```
 
 the following usage message will be displayed.
 
 ```
-Usage: ./newtons_method.py initial_guess
+Usage: ./cal_tax.py initial_guess
 ```
